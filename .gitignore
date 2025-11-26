@@ -1,0 +1,13 @@
+# Ignore everything by default at repo root
+/*
+
+# Keep these project directories
+!/backend/
+!/scem-smart-feedback-main/
+
+# Ensure contents of these directories are tracked
+!/backend/**
+!/scem-smart-feedback-main/**
+
+# Optional: keep this .gitignore tracked
+!/.gitignore
